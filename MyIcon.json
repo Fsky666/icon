@@ -4,12 +4,16 @@
     "time": "2024-09-21",
     "icons": [
         {
+            "name": "HY",
+            "url": "https://raw.githubusercontent.com/Fsky666/icon/refs/heads/main/My_icon/huacloud.png"
+        }
+        {
             "name": "HTW",
-            "url": "https://github.com/Fsky666/icon/blob/5b932ca32d0b5231124c04477187d981df96253e/My_icon/hitun.PNG?raw=true"
+            "url": "https://raw.githubusercontent.com/Fsky666/icon/refs/heads/main/My_icon/hitun.PNG"
         },
         {
-            "name": "HY",
-            "url": "https://github.com/Fsky666/icon/blob/5b932ca32d0b5231124c04477187d981df96253e/My_icon/huacloud.png?raw=true"
+            "name": "GG",
+            "url": "https://raw.githubusercontent.com/Fsky666/icon/refs/heads/main/My_icon/GG.PNG"
         }
     ]
 }
